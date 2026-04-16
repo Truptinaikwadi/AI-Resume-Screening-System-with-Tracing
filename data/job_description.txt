@@ -1,0 +1,9 @@
+Data Scientist role
+
+Requirements:
+- Python
+- SQL
+- Machine Learning
+- Pandas, NumPy
+- TensorFlow or PyTorch
+- 2+ years experience
